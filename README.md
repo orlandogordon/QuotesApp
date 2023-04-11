@@ -21,7 +21,7 @@ This application was created using React for front-end/component functionality a
 
 ### Live Site
 
-* https://wordsofinspo.netlify.app/quotes
+* https://wordsofinspo.netlify.app/
 
 ### Executing program
 
